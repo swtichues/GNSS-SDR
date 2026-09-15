@@ -1,7 +1,5 @@
 # Multi-GNSS L1/E1/B1 PCPS Acquisition + Tracking
 
-本代码包是在现有 `GPS_L1_CA_PCPS_Acquisition.m`、`SBAS_L1_PCPS_Acquisition.m`、`BDS_B1I_PCPS_Acquisition.m`、`BDS_B1C_PilotA_PCPS_Acquisition.m` 的结构和注释风格上扩展得到的统一 MATLAB 离线接收处理代码。
-
 ## 1. 文件
 
 - `MultiGNSS_L1_PCPS_Acquisition.m`
