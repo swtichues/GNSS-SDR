@@ -1,2 +1,2 @@
 # GNSS-SDR
-支持L1频点的GPS、BDS、QZSS、Galileo 、GLONASS、NavIC和SBAS信号的捕获
+支持L1频点的GPS、BDS、QZSS、Galileo 、GLONASS、NavIC和SBAS信号的捕获和跟踪
